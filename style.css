@@ -35,6 +35,10 @@ body {
   margin-bottom: 20px;
 }
 
+#autoclicker{
+	display:none;
+}
+
 #footer{
   margin-top: 50px;
 }
